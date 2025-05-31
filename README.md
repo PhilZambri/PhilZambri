@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 <!--
 **PhilZambri/PhilZambri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Philip Zambri (1)](https://github.com/user-attachments/assets/2e2bb06f-3be2-4058-91db-d6a9828c955e)
+
+Hello, I'm Phil.
+
+
+## 📚 Projects
+
+Welcome to my portfolio, where I showcase my projects.
+
+## 🛠 Tools
+
+- Language: Python, SQL
+
+## 👋🏻 Connect with Me
+
+- [Linkedin](https://www.linkedin.com/in/philip-zambri/)

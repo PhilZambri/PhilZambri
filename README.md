@@ -21,7 +21,7 @@ Hello, I'm Phil.
 
 ## 📚 Projects
 
-Welcome to my portfolio, where I showcase my projects.
+Welcome to my portfolio, where I showcase my [projects](https://github.com/PhilZambri/Portfolio-Guide).
 
 ## 🛠 Tools
 
